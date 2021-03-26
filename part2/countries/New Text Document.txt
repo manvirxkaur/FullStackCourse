@@ -1,0 +1,3 @@
+# .env
+
+REACT_APP_API_KEY=ef84324c7244fe590e6abe931ee6d4d0
